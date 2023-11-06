@@ -1,0 +1,10 @@
+# copiar al terminal o consola
+git init
+git config user.name "Danilo"
+git config user.email "danilopespinosa@gmail.com"
+git config --global core.autocrlf true (Win)
+git config --global core.editor "code --wait"
+git config --global init. default branch main
+
+# para GITHUB al final
+git branch -M main
