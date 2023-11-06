@@ -10,6 +10,7 @@ git config [--global] user.name "nombre"
 git config [--global] user.email mi.email@ejemplo.com
 git config --global core.autocrlf true (Win) o input(Mac - Linux)
 git config --global core.editor "code --wait"
+git config --global init. default branch main
 
 4 - Información del estado
 git status
